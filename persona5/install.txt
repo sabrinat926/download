@@ -1,0 +1,6 @@
+charset,UTF-8
+type,balloon
+name,Persona5
+directory,Persona5
+craftmanw,蘑菇魚
+craftmanurl,http://mushroomfish.myportfolio.com/
